@@ -1,4 +1,4 @@
-### Hi there 👋
+### 别看我别看我 ヾ(≧O≦)〃
 
 <!--
 **techstay/techstay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔑 My gpg pubkey is on [openpgp](https://keys.openpgp.org) with fingerprint `3E00 2217 712E BA30 A53D 485F 7CDD F9CB DDF9 BF2E`.
+
+![Techstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstay&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=javascript,html&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+**⬇️ Click on the message ⬇️**
+
+[![](https://chat.getloli.com/room/@techstay/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=gulugulu@github:%20~)](https://chat.getloli.com/room/@techstay?title=gulugulu)
