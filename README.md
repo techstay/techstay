@@ -1,26 +1,21 @@
-### 别看我别看我 ヾ(≧O≦)〃
+## 别看我别看我 ヾ(≧O≦)〃
 
-<!--
-**techstay/techstay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📖 我的项目
 
-Here are some ideas to get you started:
+[![studyNotes](https://github-readme-stats.vercel.app/api/pin/?username=techstay&repo=studyNotes)](https://github.com/techstay/studyNotes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🔑 My gpg pubkey is on [openpgp](https://keys.openpgp.org) with fingerprint `3E00 2217 712E BA30 A53D 485F 7CDD F9CB DDF9 BF2E`.
+### 🎨 我的状态
 
 ![Techstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstay&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=javascript,html&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=javascript,html&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**⬇️ Click on the message ⬇️**
+🔑 Gpg 密钥.
 
-[![](https://chat.getloli.com/room/@techstay/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=gulugulu@github:%20~)](https://chat.getloli.com/room/@techstay?title=gulugulu)
+```sh
+gpg --keyserver hkps://keys.openpgp.org --recv-keys 3E002217712EBA30A53D485F7CDDF9CBDDF9BF2E
+```
+
+### ⬇️🎤 聊天室 ⬇️
+
+[![chatroom](https://chat.getloli.com/room/@techstay/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=techstay@github:%20~)](https://chat.getloli.com/room/@techstay?title=techstay)
