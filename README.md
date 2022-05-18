@@ -8,6 +8,8 @@
 
 ![Techstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstay&show_icons=true)
 
+[![techstay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techstay)](https://github.com/techstay)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=javascript,html&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🔑 Gpg 密钥.
