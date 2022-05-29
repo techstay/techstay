@@ -17,7 +17,3 @@
 ```sh
 gpg --keyserver hkps://keys.openpgp.org --recv-keys 3E002217712EBA30A53D485F7CDDF9CBDDF9BF2E
 ```
-
-### ⬇️🎤 聊天室 ⬇️
-
-[![chatroom](https://chat.getloli.com/room/@techstay/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=techstay@github:%20~)](https://chat.getloli.com/room/@techstay?title=techstay)
