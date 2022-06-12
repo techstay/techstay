@@ -1,5 +1,8 @@
 ## 别看我别看我 ヾ(≧O≦)〃
 
+![](https://komarev.com/ghpvc/?username=techstay&style=flat-square&color=blueviolet)
+[![](https://img.shields.io/badge/blog-techstay.life-orange)](https://techstay.life)
+
 ### 📖 我的项目
 
 [![studyNotes](https://github-readme-stats.vercel.app/api/pin/?username=techstay&repo=studyNotes)](https://github.com/techstay/studyNotes)
