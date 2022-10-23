@@ -1,7 +1,7 @@
 ## 别看我别看我 ヾ(≧O≦)〃
 
 ![](https://komarev.com/ghpvc/?username=techstay&style=flat-square&color=blueviolet)
-[![](https://img.shields.io/badge/blog-techstay.life-orange)](https://techstay.life)
+[![](https://img.shields.io/badge/blog-techstay.tech-orange)](https://techstay.tech)
 
 ### 📖 我的项目
 
