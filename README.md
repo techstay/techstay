@@ -1,18 +1,34 @@
-## Dont't look at me ヾ(≧O≦)〃
+## Don't look at me ヾ (≧O≦)〃
 
-![Profile views](https://komarev.com/ghpvc/?username=techstay&style=flat&color=brightgreen)
-[![blog](https://img.shields.io/badge/blog-techstay.tech-informational)](https://techstay.tech)
+![:name](https://count.getloli.com/get/@techstay?theme=rule34)
+
+<img align="right" width="20%" src="https://s2.loli.net/2022/11/18/uzO2nedE9XJLq34.webp">
+
+[![ghpvc](https://komarev.com/ghpvc/?username=techstay&style=flat-square&color=blueviolet)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/9508a64e-d631-4e39-ab02-5d26f15b98a5.svg?style=flat-square)](https://wakatime.com/@9508a64e-d631-4e39-ab02-5d26f15b98a5)
+[![email](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:lovery521@gmail.com)
+
+[![blog](https://img.shields.io/badge/blog-techstay.tech-ff8ba7?style=flat-square)](https://techstay.tech)
+[![studyNotes](https://img.shields.io/badge/studyNotes-studynotes.techstay.tech-CE6AE0?style=flat-square)](https://studynotes.techstay.tech)
+
+### 👨‍💻 Development Platform & Tools
+
+[![windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows-11&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
+[![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/zh-hans/)
+[![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+
+[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi_3B+-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org)
+[![Mi 8](https://img.shields.io/badge/XiaoMi_Mi_8-ff6900?style=flat-square&logo=android&logoColor=white)](https://www.mi.com)
+
+### 📊 Coding Stats
+
+![Techstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstay&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=javascript,html&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔑 GPG Key
 
 ```sh
 gpg --keyserver hkps://keys.openpgp.org --recv-keys 3E002217712EBA30A53D485F7CDDF9CBDDF9BF2E
 ```
-
-### 📊 Coding Stats
-
-![Techstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstay&show_icons=true)
-
-[![techstay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techstay)](https://github.com/techstay)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=javascript,html&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
