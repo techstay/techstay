@@ -7,9 +7,7 @@
 [![ghpvc](https://komarev.com/ghpvc/?username=techstay&style=flat-square&color=blueviolet)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/9508a64e-d631-4e39-ab02-5d26f15b98a5.svg?style=flat-square)](https://wakatime.com/@9508a64e-d631-4e39-ab02-5d26f15b98a5)
 [![email](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:lovery521@gmail.com)
-
 [![blog](https://img.shields.io/badge/blog-techstay.tech-ff8ba7?style=flat-square)](https://techstay.tech)
-[![studyNotes](https://img.shields.io/badge/studyNotes-studynotes.techstay.tech-CE6AE0?style=flat-square)](https://studynotes.techstay.tech)
 
 ### 👨‍💻 Development Platform & Tools
 
