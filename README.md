@@ -8,6 +8,7 @@
 [![wakatime](https://wakatime.com/badge/user/9508a64e-d631-4e39-ab02-5d26f15b98a5.svg?style=flat-square)](https://wakatime.com/@9508a64e-d631-4e39-ab02-5d26f15b98a5)
 [![email](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:lovery521@gmail.com)
 [![blog](https://img.shields.io/badge/blog-techstay.tech-ff8ba7?style=flat-square)](https://techstay.tech)
+[![techblog](https://img.shields.io/badge/techblog-techblog.techstay.tech-5c70be?style=flat-square)](https://techblog.techstay.tech)
 
 ### 👨‍💻 Development Platform & Tools
 
