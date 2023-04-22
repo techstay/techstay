@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Development Platform & Tools
 
-[![windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows-11&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
+[![windows](https://img.shields.io/badge/Windows_10-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/zh-hans/)
 [![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
