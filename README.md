@@ -15,10 +15,12 @@
 [![windows](https://img.shields.io/badge/Windows_10-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/zh-hans/)
 [![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi_3B+-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org)
 [![Mi 8](https://img.shields.io/badge/XiaoMi_Mi_8-ff6900?style=flat-square&logo=android&logoColor=white)](https://www.mi.com)
+
+[![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://adoptium.net/zh-CN/)
 
 ### 📊 Coding Stats
 
