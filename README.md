@@ -7,7 +7,7 @@
 [![ghpvc](https://komarev.com/ghpvc/?username=techstay&style=flat-square&color=blueviolet)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/9508a64e-d631-4e39-ab02-5d26f15b98a5.svg?style=flat-square)](https://wakatime.com/@9508a64e-d631-4e39-ab02-5d26f15b98a5)
 [![email](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:lovery521@gmail.com)
-[![blog](https://img.shields.io/badge/blog-16430104.xyz-ff8ba7?style=flat-square)](https://techstay.xyz)
+[![blog](https://img.shields.io/badge/blog-16430104.xyz-ff8ba7?style=flat-square)](https://16430104.xyz)
 [![techblog](https://img.shields.io/badge/techblog-techstay.tech-5c70be?style=flat-square)](https://techstay.tech)
 
 ### 👨‍💻 Development Platform & Tools
@@ -18,10 +18,10 @@
 [![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Raspberry Pi](https://img.shields.io/badge/RaspberryPi_3B+-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org)
-[![Mi 8](https://img.shields.io/badge/XiaoMi_Mi_8-ff6900?style=flat-square&logo=android&logoColor=white)](https://www.mi.com)
+[![Redmi K70 Pro](https://img.shields.io/badge/Redmi_K70_Pro-ff6900?style=flat-square&logo=android&logoColor=white)](https://www.mi.com)
 
 [![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)
+[![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)          
 [![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ### 📊 Coding Stats
