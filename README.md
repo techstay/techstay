@@ -21,7 +21,7 @@
 [![Redmi K70 Pro](https://img.shields.io/badge/Redmi_K70_Pro-ff6900?style=flat-square&logo=android&logoColor=white)](https://www.mi.com)
 
 [![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)          
+[![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)
 [![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ### 📊 Coding Stats
