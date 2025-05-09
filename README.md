@@ -28,7 +28,7 @@
 
 ![Techstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=techstay&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=javascript,html&show_icons=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techstay&hide=Jupyter%20Notebook&show_icons=true&layout=donut&exclude_repo=blog,techblog&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔑 GPG Key
 
