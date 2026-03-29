@@ -29,9 +29,3 @@
 ![Techstay's GitHub stats](https://github-readme-stats.techstay.tech/api?username=techstay&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.techstay.tech/api/top-langs/?username=techstay&hide=Jupyter%20Notebook,mathematica,HTML&show_icons=true&layout=donut&exclude_repo=blog,techblog&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔑 GPG Key
-
-```sh
-gpg --keyserver hkps://keys.openpgp.org --recv-keys 3E002217712EBA30A53D485F7CDDF9CBDDF9BF2E
-```
