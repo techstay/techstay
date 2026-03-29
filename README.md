@@ -10,6 +10,8 @@
 [![blog](https://img.shields.io/badge/blog-16430104.xyz-ff8ba7?style=flat-square)](https://16430104.xyz)
 [![techblog](https://img.shields.io/badge/techblog-techstay.tech-5c70be?style=flat-square)](https://techstay.tech)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=800&pause=1000&color=7815F7&background=8A459B00&width=435&lines=Hi%2C+I'm+techstay%2C+a+solo+developer.)](https://git.io/typing-svg)
+
 ### 👨‍💻 Development Platform & Tools
 
 [![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows-11&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
