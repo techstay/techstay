@@ -12,6 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=800&pause=1000&color=7815F7&background=8A459B00&width=435&lines=Hi%2C+I'm+techstay%2C+a+solo+developer.)](https://git.io/typing-svg)
 
+I'm an independent freelance developer with a laid-back personality. I'm passionate about computers, programming, gaming, anime, and all sorts of new and interesting technologies. And now I'm learning Japanese! 頑張れ!
+
 ### 👨‍💻 Development Platform & Tools
 
 [![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows-11&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
