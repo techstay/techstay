@@ -13,11 +13,11 @@
 ### 👨‍💻 Development Platform & Tools
 
 [![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows-11&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows11)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/zh-hans/)
 [![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Raspberry Pi](https://img.shields.io/badge/RaspberryPi_3B+-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/zh-hans/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![Raspberry Pi](https://img.shields.io/badge/RaspberryPi_3B+-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/)
 [![Redmi K70 Pro](https://img.shields.io/badge/Redmi_K70_Pro-ff6900?style=flat-square&logo=android&logoColor=white)](https://www.mi.com)
 
 [![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -29,3 +29,5 @@
 ![Techstay's GitHub stats](https://github-readme-stats.techstay.tech/api?username=techstay&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.techstay.tech/api/top-langs/?username=techstay&hide=Jupyter%20Notebook,mathematica,HTML&show_icons=true&layout=donut&exclude_repo=blog,techblog&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![techstay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techstay)](https://github.com/ashutosh00710/github-readme-activity-graph)
