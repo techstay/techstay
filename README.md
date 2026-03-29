@@ -22,9 +22,10 @@
 [![Raspberry Pi](https://img.shields.io/badge/RaspberryPi_3B+-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/)
 [![Redmi K70 Pro](https://img.shields.io/badge/Redmi_K70_Pro-ff6900?style=flat-square&logo=android&logoColor=white)](https://www.mi.com)
 
+[![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)
-[![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ### 📊 Coding Stats
